@@ -22,11 +22,13 @@ This repository is used for Scripts in Python Language for **Hacktoberfest 2020*
 
 **NOTE: For JuPyter Notebooks, no need to share the screenshots.** 
 
-6) Pull requests will be labelled invalid if anyone is found to do this:
+6) Pull requests will be labelled **invalid** if anyone is found to do this:
 
 	a) edit the README.md or any other markdown file (if available).
-	b) adding or removing one or more than one words or any punctuation mark from a file/code with are irrevalant to the open source.
-	c) Pull requests created in any other repository which is not for Hacktoberfest 2020 or  any other collaboration.
+	
+	b) adding or removing one or more than one words or any punctuation mark from a file/code which are irrevalant to the open source.
+	
+	c) Pull requests created in any other repository which is not for Hacktoberfest 2020 or any other collaboration.
 
  In short, if you want your pull requests to be merged, here are the rules updated by *DigitalOcean* in the form of a **Pseudocode** :
  
