@@ -1,6 +1,6 @@
 # Python-Scripts
 ---
-This repository is used for Python Scripts for **Hacktoberfest 2020**
+This repository is used for Scripts in Python Language for **Hacktoberfest 2020**
 
 ![Hacktoberfest 2020](https://github.com/biswas-neelesh96/Python-Scripts/blob/master/H20-Images/Screenshot-(886).png)
 
