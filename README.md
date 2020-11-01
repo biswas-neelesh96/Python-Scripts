@@ -36,5 +36,5 @@ This repository is used for Scripts in Python Language for **Hacktoberfest 2020*
 
 For any other problem/query, please mail to [neelesh365@gmail.com](mailto:neelesh365@gmail.com) or [neelesh.ece30@gmail.com](mailto:neelesh.ece30@gmail.com) or you can drop a message on my [LinkedIn](https://www.linkedin.com/in/neelesh-biswas-88a255142/) or [Instagram](https://www.instagram.com/sonai_sunshine96/) Profile.
 
-**UPDATE ON 01/1/2020:** Although Hacktoberfest 2020 has ended, but these repositories are still open for contribution. However, the pull requests sent after this update will not get **hacktoberfest-accepted** label & may not be merged if the above guidelines have not been followed.
+**UPDATE ON 01/11/2020:** Although Hacktoberfest 2020 has ended, but these repositories are still open for contribution. However, the pull requests sent after this update will not get **hacktoberfest-accepted** label & may not be merged if the above guidelines have not been followed.
  
